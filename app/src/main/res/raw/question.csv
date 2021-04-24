@@ -1,0 +1,40 @@
+Which is a reserved word in the Java programming language?,method,native,subclasses,reference,2,Java Programming
+Which is a valid keyword in java?,interface,string,float,unsigned,1,Java Programming
+Which is the valid declarations within an interface definition?,public double methoda();,public final double methoda();,static void methoda(double d1);,protected void methoda(double d1);,1,Java Programming
+What is the numerical range of a char?,-128 to 127,-(215) to (215) - 1,0 to 32767,0 to 65535,4,Java Programming
+Which is a valid declarations of a String?,String s1 = null;,String s2 = 'null';,String s3 = (String) 'abc';,String s4 = (String) '\ufeed';,1,Java Programming
+Which one is a valid declaration of a boolean?,boolean b1 = 0;,boolean b2 = 'false';,boolean b3 = false;,boolean b4 = Boolean.false();,3,Java Programming
+What is the prototype of the default constructor?,Test( ),Test(void),public Test( ),public Test(void),3,Java Programming
+You want subclasses in any package to have access to members of a superclass. Which is the most restrictive access that accomplishes this objective?,public,private,protected,transient,3,Java Programming
+Which of the following class level (nonlocal) variable declarations will not compile?,protected int a;,private synchronized int e;,transient int b = 3;,volatile int d;,2,Java Programming
+Which is a valid declaration within an interface?,protected short stop = 23;,public static short stop = 23;,transient short stop = 23;,final void madness(short stop);,2,Java Programming
+Which one of the following is not a software process quality?,Productivity,Portability,Timeliness,Visibility,2,Software Engineering
+Which one of the following is not an application of embedded software product?,keypad control of a security system,pattern recognition game playing,digital function of dashboard display in a car,none of the mentioned,2,Software Engineering
+Purpose of process is to deliver software,in time,with acceptable quality,that is cost efficient,both in time & with acceptable quality,4,Software Engineering
+Which of the following activities of a Generic Process framework provides a feedback report?,Communication,Planning,Modeling & Construction,Deployment,4,Software Engineering
+Four types of change are encountered during the support phase.Which one of the following is not one that falls into such category?,Translation,Correction,Adaptation,Prevention,1,Software Engineering
+Efficiency in a software product does not include?,responsiveness,licensing,memory utilization,processing time,2,Software Engineering
+In terms of Issues related to professional responsibility?,Confidentiality,Intellectual property rights,Both Confidentiality & Intellectual property rights,Managing Client Relationships,3,Software Engineering
+What are attributes of good software ?,Software maintainability,Software functionality,Software development,Software maintainability & functionality,4,Software Engineering
+Which of these does not account for software failure?,Increasing Demand,Low expectation,Increasing Supply,Less reliable and expensive,3,Software Engineering
+Which one of the following models is not suitable for accommodating any change?,Build & Fix Model,Prototyping Model,RAD Model,Waterfall Model,4,Software Engineering
+Markup tags tell the web browser ?,How to organise the page,How to display the page,How to display message box on page,None of these,2,HTML & CSS
+The attribute which define the relationship between current document and HREF'ed URL is ?,REL,URL,REV,None of the above,1,HTML & CSS
+Which of the following options is correct with regard to HTML ?,It is a modelling language,It is a DTP language,It is a partial programming language,It is used to structure documents,4,HTML & CSS
+Pseudo-classes are used to represent ?,Static Events,Dynamic Events,Related Events,Casual Events,2,HTML & CSS
+How many type faces inside property "font-family" ?,One,Maximum 2,No Limit,Maximum 3,3,HTML & CSS
+If we want to wrap a block of text around an image which css property will we use ?,wrap,push,float,align,3,HTML & CSS
+If we want to show an Arrow as cursor then which value we will use ?,pointer,default,arrow,arr,2,HTML & CSS
+Which of the following properties will we use to display border around a cell without any content ?,empty-cell,blank-cell,noncontent-cell,void-cell,1,HTML & CSS
+Which css property you will use if you want to add some margin between a DIV's border and its inner text ?,spacing,margin,padding,inner-margin,3,HTML & CSS
+Which CSS property is used to control the text size of an element ?,font-style,text-size,font-size,text-style,3,HTML & CSS
+Is Python case sensitive when dealing with identifiers?,yes,no,machine dependent,none of the mentioned,1,Python
+What is the maximum possible length of an identifier?,31 characters,63 characters,79 characters,none of the mentioned,4,Python
+Which of the following is invalid?,_a = 1,__a = 1,__str__ = 1,none of the mentioned,4,Python
+Why are local variable names beginning with an underscore discouraged?,they are used to indicate a private variables of a class,they confuse the interpreter,they are used to indicate global variables,they slow down execution,1,Python
+Which of the following cannot be a variable?,__init__,in,it,on,2,Python
+What is the type of inf?,Boolean,Integer,Float,Complex,3,Python
+What does ~4 evaluate to?,-5,-4,-3,+3,1,Python
+What does 3 ^ 4 evaluate to?,81,12,0.75,7,4,Python
+Which of the following functions is a built-in function in python language?,val(),str(),print(),None of these,3,Python
+What error will occur when you execute the following code: " MANGO = APPLE  "?,NameError,SyntaxError,TypeError,ValueError,1,Python

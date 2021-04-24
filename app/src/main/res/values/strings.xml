@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="registerTitle">Register</string>
+
+    <string name="appTitle">Quiz App</string>
+    <string name="signup">Sign Up</string>
+    <string name="UserName">Please enter user name</string>
+    <string name="editTxtNameHint">User Name</string>
+    <string name="txtViewPasswrd">Please enter the Password</string>
+    <string name="editTxtPasswrd">Password</string>
+    <string name="BtnStart">Start</string>
+    <string name="txtViewReTypePasswrd">Please retype the password</string>
+    <string name="editTxtRetypePasswrd">Retype Password</string>
+    <string name="txtViewSignIn">Sign In</string>
+    <string name="txtViewUserName">Please enter user name</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="passwrdHint">Password</string>
+    <string name="editTxtUserName">User Name</string>
+    <string name="cardViewRegister">Register</string>
+    <string name="BtnRegister">Register</string>
+    <string name="BtnSignIn">Sign In</string>
+    <string name="textChooseClassTitle">Welcome To The Quiz App</string>
+    <string name="textChooseClassInstruction"><u>Please select your class from the list below.</u></string>
+    <string name="textContactUsTitle">Contact Us</string>
+    <string name="textEmailAman"><u>Amandeep Kaur</u></string>
+    <string name="textEmailRishab"><u>Rishab Sharma</u></string>
+    <string name="textButtonEmail">Send Email</string>
+    <string name="textEmailJayden"><u>Jayden Cang</u></string>
+    <string name="textContactUsDesc">Please feel free to contact us for any questions or concerns.</string>
+    <string name="txtViewSubjectDetail">Hi Rishab, Welcome to Android Quiz</string>
+    <string name="txtViewScore">Score : 0</string>
+    <string name="btnStart">Start</string>
+    <string name="textScore">Score : 0</string>
+    <string name="txtQuestion">Question : 1/x</string>
+    <string name="txtTimer">00:59</string>
+    <string name="rdBtnOption1">Option 1</string>
+    <string name="rdBtnOption2">Option 2</string>
+    <string name="rdBtnOption3">Option 3</string>
+    <string name="rdBtnOption4">Option 4</string>
+    <string name="btnConfirm">CONFIRM</string>
+    <string name="textLogOut">Thank you for using quiz app! Logging out...</string>
+    <string name="btnStartQuiz">Start Quiz</string>
+    <string name="textTitleRecentQuizzes"><u>Recent Quiz Marks</u></string>
+    <string name="textDescRecentQuizMarks">These are your most recent quiz marks. They are sorted class names. If there are no marks showing, then you have not done any. </string>
+    <string name="textRecentQuizOther">To view your overall percentage per course, go back to the main menu, and press performance.</string>
+    <string name="BtnGraphs">Graphs</string>
+    <string name="BtnBackMainMenu">Exit</string>
+    <string name="headerClass">Class</string>
+    <string name="headerMark">Grade</string>
+    <string name="headerDate">Date Taken</string>
+    <string name="textAboutApp">"Welcome to Quiz App, the best source of prepration for online multiple choice exams. We've created this app as a part of our CSIS-3175 (Introduction to Mobile App Development) project. This app will provide you variety of MCQ to practise before an online exam in particular subject. "</string>
+    <string name="textMore">We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don\'t hesitate to contact us.</string>
+    <string name="textRating">Ratings/Reviews</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnLogout">Log Out</string>
+
+    <string-array name="SpinnerTypes">
+        <item>Vertical Bar Chart</item>
+        <item>Horizontal Bar Chart</item>
+        <item>Pie Chart</item>
+    </string-array>
+</resources>

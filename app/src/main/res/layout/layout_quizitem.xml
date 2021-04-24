@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textViewQuizClassHeader"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_weight="0.35"
+        android:gravity="center|left"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewQuizScoreHeader"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_weight="0.35"
+        android:gravity="center"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewQuizDateHeader"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_weight="0.35"
+        android:gravity="center|right"
+        android:textSize="14sp" />
+
+</LinearLayout>
