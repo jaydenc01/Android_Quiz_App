@@ -11,7 +11,8 @@ This app was made to let you take multiple choice quizzes from a select number o
 
 # Authors
 - Jayden Cang
-- Classmates (not to be named)
+- Amandeep Kaur
+- Rishab Sharma
 
 # Info
 This app was made completely in Android Studio, and uses third party libraries like [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) , and Google Sign in.
